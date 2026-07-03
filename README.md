@@ -68,3 +68,4 @@ python bot.py
 
 ## 🛠️ Tags / Теги для поиска
 `discord-bot` `yandex-music` `music-bot` `discord-audio` `yandex-music-api`
+всё сделано только с помощью ии gemeni
