@@ -38,7 +38,7 @@ This bot **strictly requires** **FFmpeg** installed on your system to process an
 
 ### 1. Клонирование репозитория (Clone the repository)
 ```bash
-git clone https://github.com
+git clone https://github.com/eeeerfff
 cd discord-music-bot-yandex
 ```
 
